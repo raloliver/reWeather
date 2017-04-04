@@ -1,0 +1,369 @@
+{
+    "results": [{
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "nicolas",
+            "last": "mitchell"
+        },
+        "location": {
+            "street": "6662 richmond ave",
+            "city": "fountainbleu",
+            "state": "manitoba",
+            "postcode": 10338
+        },
+        "email": "nicolas.mitchell@example.com",
+        "login": {
+            "username": "silverpeacock623",
+            "password": "nutmeg",
+            "salt": "dXMmKYB1",
+            "md5": "c8e0e07bd5ce74bb94f2374d38ac2292",
+            "sha1": "46e93ff4adce81a5e4ac5af5e1f00249e1ca5fdd",
+            "sha256": "a0e1a12992add5f4a565b8400902a4bdda2ad61843ff43e3d71b77b9841cd2ab"
+        },
+        "dob": "1972-01-19 08:14:18",
+        "registered": "2004-02-02 14:48:53",
+        "phone": "053-587-0700",
+        "cell": "798-530-2909",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/98.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+        },
+        "nat": "CA"
+    }, {
+        "gender": "female",
+        "name": {
+            "title": "miss",
+            "first": "eva",
+            "last": "martin"
+        },
+        "location": {
+            "street": "3482 dieppe ave",
+            "city": "chatham",
+            "state": "saskatchewan",
+            "postcode": 66408
+        },
+        "email": "eva.martin@example.com",
+        "login": {
+            "username": "redmeercat514",
+            "password": "123987",
+            "salt": "ZQMUn5ZV",
+            "md5": "1415f7aa065aa4eb0f1f4dff8412f81f",
+            "sha1": "ef830d98c5beab7bf357edc16f54900d313aae4d",
+            "sha256": "9d0a04cc2622c2cff6f3403758e5089e2216e25e22ce16ce141cf591b9b01b36"
+        },
+        "dob": "1961-05-16 22:21:52",
+        "registered": "2015-02-27 04:36:52",
+        "phone": "359-558-8650",
+        "cell": "823-736-6999",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/13.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+        },
+        "nat": "CA"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "edward",
+            "last": "jackson"
+        },
+        "location": {
+            "street": "1259 botany road",
+            "city": "invercargill",
+            "state": "west coast",
+            "postcode": 39631
+        },
+        "email": "edward.jackson@example.com",
+        "login": {
+            "username": "redswan915",
+            "password": "song",
+            "salt": "9uyX936x",
+            "md5": "d3586d61f9033cd5eae37b61d87b2884",
+            "sha1": "9b70022f734dff6c5caeb26ef04f143bd5f52769",
+            "sha256": "0bdfbdace97b837ed4f8f74d3da9b58a235a81fc173f03d63e400d4c876e25a3"
+        },
+        "dob": "1960-12-11 05:06:39",
+        "registered": "2004-09-20 06:24:17",
+        "phone": "(540)-243-7721",
+        "cell": "(384)-561-2084",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/19.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+        },
+        "nat": "NZ"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "johann",
+            "last": "schulte"
+        },
+        "location": {
+            "street": "8496 berliner straße",
+            "city": "saalfeld-rudolstadt",
+            "state": "rheinland-pfalz",
+            "postcode": 20158
+        },
+        "email": "johann.schulte@example.com",
+        "login": {
+            "username": "lazypeacock431",
+            "password": "seamus",
+            "salt": "iWhg8WSq",
+            "md5": "93dd4134f7abb0d485350d36ddd9398e",
+            "sha1": "1ba934c55e2509f7a53bbe7f00eac8024ed5efc2",
+            "sha256": "e48abeccdd7083142ebe2cffbef12ab6eee7fe1a1bc05738de9e11f806007c06"
+        },
+        "dob": "1961-08-09 20:11:57",
+        "registered": "2010-08-01 14:17:48",
+        "phone": "0758-4092745",
+        "cell": "0172-6218290",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/81.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+        },
+        "nat": "DE"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "veeti",
+            "last": "leinonen"
+        },
+        "location": {
+            "street": "8039 korkeavuorenkatu",
+            "city": "inari",
+            "state": "north karelia",
+            "postcode": 99532
+        },
+        "email": "veeti.leinonen@example.com",
+        "login": {
+            "username": "redsnake622",
+            "password": "tomcat",
+            "salt": "fkW1Vtz5",
+            "md5": "f3db9745b42c8ac545acf88b5159b89f",
+            "sha1": "5b65a2879aae4c67bc11edd9f422c4dc14f70448",
+            "sha256": "af01d31eb6470046bd5a294e3459b350be76d0cd32995f44f276b6515afcbdfd"
+        },
+        "dob": "1979-11-08 05:03:09",
+        "registered": "2003-08-22 15:07:17",
+        "phone": "05-986-594",
+        "cell": "041-062-34-25",
+        "id": {
+            "name": "HETU",
+            "value": "1479-441W"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/18.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+        },
+        "nat": "FI"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "lício",
+            "last": "da costa"
+        },
+        "location": {
+            "street": "9245 rua mato grosso ",
+            "city": "camaragibe",
+            "state": "paraná",
+            "postcode": 41442
+        },
+        "email": "lício.dacosta@example.com",
+        "login": {
+            "username": "beautifulmeercat772",
+            "password": "3x7pxr",
+            "salt": "FmpM0Sn0",
+            "md5": "2798189d50a8dc181b56ee52ddea51e6",
+            "sha1": "78dee101bfd0ba7f72e74fa8ed3ac22682b276b0",
+            "sha256": "ac968c99e1ec79aacad652584694e98f525d565a5461f366f20b3cce7eb04438"
+        },
+        "dob": "1995-04-12 18:16:38",
+        "registered": "2013-07-01 18:40:21",
+        "phone": "(95) 7979-5943",
+        "cell": "(00) 4783-0020",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/64.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+        },
+        "nat": "BR"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "leo",
+            "last": "harris"
+        },
+        "location": {
+            "street": "2301 22nd ave",
+            "city": "inverness",
+            "state": "northwest territories",
+            "postcode": 95921
+        },
+        "email": "leo.harris@example.com",
+        "login": {
+            "username": "redfrog469",
+            "password": "paulie",
+            "salt": "RneskAmw",
+            "md5": "eefc25fc286fe28544163a47a1c0ab0f",
+            "sha1": "872419b7a0882b689d12f4b48cd7757b98a69931",
+            "sha256": "c46fd54e89342e3f1497cd68fc1b0c93c362cd0b1b9787366f1ffa45c5e5bea1"
+        },
+        "dob": "1967-11-30 16:14:53",
+        "registered": "2011-03-23 15:55:11",
+        "phone": "416-992-2780",
+        "cell": "684-444-8360",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/11.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+        },
+        "nat": "CA"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "peetu",
+            "last": "peltonen"
+        },
+        "location": {
+            "street": "1736 bulevardi",
+            "city": "somero",
+            "state": "päijät-häme",
+            "postcode": 44321
+        },
+        "email": "peetu.peltonen@example.com",
+        "login": {
+            "username": "crazybird383",
+            "password": "beer",
+            "salt": "B5jhKEhh",
+            "md5": "b3a76f53149e68d9e0fec3c7a04217ee",
+            "sha1": "790ef14f4586430fc05b7dc0209637c0258143ef",
+            "sha256": "087501873c30133039487dc7d9a924edaa2950664c93c13b5b300095440296af"
+        },
+        "dob": "1961-03-22 15:20:36",
+        "registered": "2002-08-29 17:16:34",
+        "phone": "05-449-012",
+        "cell": "049-750-15-66",
+        "id": {
+            "name": "HETU",
+            "value": "561-579E"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/41.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+        },
+        "nat": "FI"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "byron",
+            "last": "byrd"
+        },
+        "location": {
+            "street": "6726 dogwood ave",
+            "city": "ballarat",
+            "state": "northern territory",
+            "postcode": 471
+        },
+        "email": "byron.byrd@example.com",
+        "login": {
+            "username": "bluerabbit333",
+            "password": "sabrina",
+            "salt": "gzHEjLxL",
+            "md5": "397cddd43951802473d6f02994ffe0af",
+            "sha1": "9fd1f56a758d08e76749c8d91bc4cd4630c1c641",
+            "sha256": "df0418089cd9fb4d55d5e72d9475e172cc07a1c45023a320b2cb1daccf365b20"
+        },
+        "dob": "1949-04-04 20:23:36",
+        "registered": "2012-04-14 07:25:49",
+        "phone": "02-8548-9563",
+        "cell": "0457-331-766",
+        "id": {
+            "name": "TFN",
+            "value": "961248714"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/44.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+        },
+        "nat": "AU"
+    }, {
+        "gender": "male",
+        "name": {
+            "title": "mr",
+            "first": "elias",
+            "last": "lakso"
+        },
+        "location": {
+            "street": "4487 hatanpään valtatie",
+            "city": "espoo",
+            "state": "south karelia",
+            "postcode": 68773
+        },
+        "email": "elias.lakso@example.com",
+        "login": {
+            "username": "silvergorilla632",
+            "password": "lllllll",
+            "salt": "F7FC1epB",
+            "md5": "488d075b51ded2550faec2a39c20fc73",
+            "sha1": "646421546d1b00f237866bf68e691d4ce7c1a246",
+            "sha256": "c921b02bda7cbabc8fa7847f1137b22b6f8b81209e726487e156187fb23e86c5"
+        },
+        "dob": "1983-08-02 00:26:01",
+        "registered": "2004-04-10 07:34:55",
+        "phone": "05-635-867",
+        "cell": "046-124-47-86",
+        "id": {
+            "name": "HETU",
+            "value": "983-083B"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/15.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+        },
+        "nat": "FI"
+    }],
+    "info": {
+        "seed": "018acb240c0aae75",
+        "results": 10,
+        "page": 1,
+        "version": "1.1"
+    }
+}

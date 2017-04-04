@@ -1,0 +1,18 @@
+{
+    "Israel": {
+        "userName": "raloliver",
+        "userEmail": "eu@ral.ninja",
+        "userSettings": {
+            "userAdmin": true,
+            "userBeta": true
+        }
+    },
+    "Fernanda": {
+        "userName": "fernanda",
+        "userEmail": "fe@nanda.me",
+        "userSettings": {
+            "userAdmin": false,
+            "userBeta": true
+        }
+    }
+}
